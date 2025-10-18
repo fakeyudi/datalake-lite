@@ -1,0 +1,11 @@
+user_id,first_name,last_name,email,age,gender,country,signup_date,is_active
+U001,Arjun,Mehta,arjun.mehta@example.com,28,Male,India,2023-05-14,True
+U002,Neha,Kapoor,neha.kapoor@example.com,25,Female,India,2023-06-02,True
+U003,Rahul,Sharma,rahul.sharma@example.com,31,Male,India,2023-07-21,False
+U004,Simran,Kaur,simran.kaur@example.com,27,Female,Canada,2023-08-10,True
+U005,Amit,Patel,amit.patel@example.com,35,Male,USA,2023-09-01,True
+U006,Priya,Nair,priya.nair@example.com,29,Female,India,2023-09-15,False
+U007,Vikram,Joshi,vikram.joshi@example.com,33,Male,UK,2023-10-03,True
+U008,Ananya,Verma,ananya.verma@example.com,22,Female,India,2023-11-18,True
+U009,Karan,Desai,karan.desai@example.com,26,Male,Australia,2023-12-07,False
+U010,Isha,Malhotra,isha.malhotra@example.com,30,Female,India,2024-01-12,True
