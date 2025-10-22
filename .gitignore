@@ -1,0 +1,12 @@
+./sample-data/
+sample-data/*
+.DS_Store
+*.log
+tmp/
+*.tmp
+dl_*.db
+*.parquet
+go.sum
+*.exe
+bin
+bin/*
