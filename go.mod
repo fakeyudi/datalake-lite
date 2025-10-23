@@ -4,9 +4,12 @@ go 1.22.2
 
 require github.com/mattn/go-sqlite3 v1.14.32
 
+require golang.org/x/sys v0.13.0 // indirect
+
 require (
 	github.com/apache/arrow/go/arrow v0.0.0-20200730104253-651201b0f516 // indirect
 	github.com/apache/thrift v0.14.2 // indirect
+	github.com/fsnotify/fsnotify v1.9.0
 	github.com/golang/snappy v0.0.3 // indirect
 	github.com/klauspost/compress v1.13.1 // indirect
 	github.com/pierrec/lz4/v4 v4.1.8 // indirect
